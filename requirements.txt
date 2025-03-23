@@ -1,3 +1,4 @@
+daphne
 Django
 django-ninja
 django-cors-headers
